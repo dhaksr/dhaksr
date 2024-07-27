@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhaksr
-- 👀 I’m interested in ... Web 3.0 ; Knowledge graph
-- 🌱 I’m currently learning ... Web 3.0
+- 👀 I’m interested in GenAI ; Knowledge graph
+- 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... drop me a message
 
